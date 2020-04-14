@@ -1,0 +1,44 @@
+#drivers {
+     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+     border-collapse: collapse;
+     width: 100%;
+}
+
+#drivers td, #drivers th {
+     border: 1px solid #ddd;
+     padding: 4px;
+}
+
+#button_{
+     background-color: BROWN;
+     text-align: center;
+     border-radius: 20px;
+     color: white;
+     width: 100px;
+     height: 40px;
+}
+#button {
+     background-color: BROWN;
+     color: white;
+     padding: 15px 32px;
+     text-align: center;
+     border-radius: 20px;
+}
+#drivers  input {
+     width: 100%;
+     padding: 9px;
+     margin: 0px;
+     box-sizing: border-box;
+}
+
+#drivers tr:hover {
+     background-color: #ddd;
+}
+
+#drivers th {
+     padding-top: 12px;
+     padding-bottom: 12px;
+     text-align: left;
+     background-color: BROWN;
+     color: white;
+}
