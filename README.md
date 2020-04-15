@@ -1,2 +1,0 @@
-# Number-Plate-Detection-And-Management
-In this Project, We are planning to make a  software which will be detecting number plate from the captured images continuously. It will basically capture images from CCTV or any camera sources like webcam or video footage and then will do analysis on that and will recognize the number plate form the captured image. Then after that, We will convert that recognized portion (Number Plate) into actual characters(digital form), which will be added into the database.
